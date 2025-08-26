@@ -1,27 +1,22 @@
-# Hi there, I'm Nikhil 👋
+# 👋 Hey, I'm Nikhil!
 
-🚀 **Senior AI Engineer** with 1.5+ years of experience building **production-ready chatbots and voicebots**.  
-I specialize in **retrieval-augmented generation (RAG)** solutions, **cloud deployments**, and **telephony integration**, delivering cost-efficient and scalable AI systems.  
+💡 I love building cool stuff on the web — from sleek **frontends** that look great ✨ to powerful **backends** that just work ⚡.  
+Whether it’s coding with **React, Next js, Preact, Tailwind, and JavaScript** for smooth UIs, or diving into **Python, Java, .NET, Go, APIs, and databases** for the heavy lifting, I enjoy making ideas come alive.  
 
----
+I also work with **Kubernetes, Docker, Azure, and DevOps pipelines** to get projects from code → cloud ☁️ without the headaches.  
+And yes, I like sprinkling in **AI and automation** 🤖 whenever I can to make apps a little smarter.  
 
-## 🔧 Skills & Technologies
-
-- **Languages:** Python, JavaScript, Java, C#, Bash, Go  
-- **Frontend:** ReactJS, Preact, HTML, CSS, JavaScript, Tailwind  
-- **AI/ML:** BERT fine-tuning, LangChain, AutoGen, LangGraph, CrewAI, LlamaIndex  
-- **Databases:** MySQL, PostgreSQL, Oracle, Redis  
-- **DevOps:** Docker, Kubernetes, Azure DevOps, GitHub Actions, Linux (RHEL)  
-- **Backend Frameworks:** .NET, Spring Boot, Hibernate, Express.js  
+🌱 Always open to learning, collaborating, and building something fun & impactful together.  
+If you’re working on something exciting, let’s connect — I’d love to team up! 🚀
 
 ---
 
 ## 🌐 Connect with me  
 
 - 📧 Email: [nikhildhole001@gmail.com](mailto:nikhildhole001@gmail.com)  
-- 📧 Email: [nikhildadadhole@gmail.com](mailto:nikhildadadhole@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/nikhildhole](https://www.linkedin.com/in/nikhildhole)  
 - 🐙 GitHub: [github.com/nikhildhole](https://github.com/nikhildhole)  
+- 📧 Secondary Email: [nikhildadadhole@gmail.com](mailto:nikhildadadhole@gmail.com)  
 
 ---
 
